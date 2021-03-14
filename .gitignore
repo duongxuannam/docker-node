@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 
+.docker/*
 # Editor directories and files
 .idea
 .vscode
